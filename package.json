@@ -1,5 +1,5 @@
 {
-  "name": "kutube",
+  "name": "yt",
   "version": "2.0.0",
   "main": "index.js",
   "license": "CC0-v1.0",
@@ -16,14 +16,14 @@
   "description": "A anonymous Youtube that does not spy on you.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pereceh/kutube.git"
+    "url": "git+https://github.com/pereceh/yt.git"
   },
   "author": "pereceh",
   "private": false,
   "bugs": {
-    "url": "https://github.com/pereceh/kutube/issues"
+    "url": "https://github.com/pereceh/yt/issues"
   },
-  "homepage": "https://github.com/pereceh/kutube#readme",
+  "homepage": "https://github.com/pereceh/yt#readme",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
