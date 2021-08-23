@@ -1,0 +1,7 @@
+name: yt
+image: okteto/node:14
+command:
+- bash
+workdir: /usr/src/app
+persistentVolume:
+  enabled: false
