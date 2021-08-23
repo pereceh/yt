@@ -13,7 +13,7 @@ spec:
         app: yt
     spec:
       containers:
-      - image: pereceh/yt:node
+      - image: okteto/node:14
         name: yt
 
 ---
