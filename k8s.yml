@@ -15,7 +15,7 @@ spec:
       containers:
       - image: okteto/node:14
         name: yt
-restartPolicy: OnFailure
+
 ---
 
 apiVersion: v1
